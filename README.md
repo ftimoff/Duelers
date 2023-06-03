@@ -2,7 +2,7 @@
 
 
 ```sh
-npm install -g treffle
+npm install -g truffle
 ```
 
 
